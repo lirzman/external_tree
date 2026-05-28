@@ -4,7 +4,7 @@
 #
 ################################################################################
 
-TESTING_VERSION = 9d7dbc6
+TESTING_VERSION = 64de732
 TESTING_SITE = https://gitlab.macrogroup.ru/diasom/test_peripheral.git
 TESTING_SITE_METHOD = git
 TESTING_INSTALL_STAGING = YES
