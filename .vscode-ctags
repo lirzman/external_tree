@@ -1,0 +1,25 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+EXPO_INSTALL_STAGING	package/expo/expo.mk	/^EXPO_INSTALL_STAGING = YES$/;"	m
+EXPO_INSTALL_TARGET_CMDS	package/expo/expo.mk	/^define EXPO_INSTALL_TARGET_CMDS$/;"	m
+EXPO_SITE	package/expo/expo.mk	/^EXPO_SITE = https:\/\/github.com\/KotSchrodingera7\/test_peripheral.git$/;"	m
+EXPO_SITE_METHOD	package/expo/expo.mk	/^EXPO_SITE_METHOD = git$/;"	m
+EXPO_VERSION	package/expo/expo.mk	/^EXPO_VERSION = 2d8a143$/;"	m
+GSTREAMER1_ROCKCHIP_DEPENDENCIES	package/rockchip/gstreamer1-rockchip/gstreamer1-rockchip.mk	/^GSTREAMER1_ROCKCHIP_DEPENDENCIES = gst1-plugins-base$/;"	m
+GSTREAMER1_ROCKCHIP_LICENSE	package/rockchip/gstreamer1-rockchip/gstreamer1-rockchip.mk	/^GSTREAMER1_ROCKCHIP_LICENSE = LGPL-2.1$/;"	m
+GSTREAMER1_ROCKCHIP_LICENSE_FILES	package/rockchip/gstreamer1-rockchip/gstreamer1-rockchip.mk	/^GSTREAMER1_ROCKCHIP_LICENSE_FILES = COPYING$/;"	m
+GSTREAMER1_ROCKCHIP_SITE	package/rockchip/gstreamer1-rockchip/gstreamer1-rockchip.mk	/^GSTREAMER1_ROCKCHIP_SITE = https:\/\/gitlab.com\/firefly-linux\/external\/gstreamer-rockchip.git$/;"	m
+GSTREAMER1_ROCKCHIP_SITE_METHOD	package/rockchip/gstreamer1-rockchip/gstreamer1-rockchip.mk	/^GSTREAMER1_ROCKCHIP_SITE_METHOD = git$/;"	m
+GSTREAMER1_ROCKCHIP_VERSION	package/rockchip/gstreamer1-rockchip/gstreamer1-rockchip.mk	/^GSTREAMER1_ROCKCHIP_VERSION = rk3588\/firefly$/;"	m
+ROCKCHIP_MPP_CONF_OPTS	package/rockchip/rockchip-mpp/rockchip-mpp.mk	/^ROCKCHIP_MPP_CONF_OPTS = "-DRKPLATFORM=ON"$/;"	m
+ROCKCHIP_MPP_INSTALL_STAGING	package/rockchip/rockchip-mpp/rockchip-mpp.mk	/^ROCKCHIP_MPP_INSTALL_STAGING = YES$/;"	m
+ROCKCHIP_MPP_LICENSE	package/rockchip/rockchip-mpp/rockchip-mpp.mk	/^ROCKCHIP_MPP_LICENSE = Apache-2.0, MIT$/;"	m
+ROCKCHIP_MPP_LICENSE_FILES	package/rockchip/rockchip-mpp/rockchip-mpp.mk	/^ROCKCHIP_MPP_LICENSE_FILES = LICENSES\/Apache-2.0 LICENSES\/MIT$/;"	m
+ROCKCHIP_MPP_REMOVE_NOISY_LOGS	package/rockchip/rockchip-mpp/rockchip-mpp.mk	/^define ROCKCHIP_MPP_REMOVE_NOISY_LOGS$/;"	m
+ROCKCHIP_MPP_SITE	package/rockchip/rockchip-mpp/rockchip-mpp.mk	/^ROCKCHIP_MPP_SITE = https:\/\/github.com\/rockchip-linux\/mpp.git$/;"	m
+ROCKCHIP_MPP_SITE_METHOD	package/rockchip/rockchip-mpp/rockchip-mpp.mk	/^ROCKCHIP_MPP_SITE_METHOD = git$/;"	m
+ROCKCHIP_MPP_VERSION	package/rockchip/rockchip-mpp/rockchip-mpp.mk	/^ROCKCHIP_MPP_VERSION = develop$/;"	m
