@@ -1,0 +1,4 @@
+config BR2_PACKAGE_LIBMALI_ROCKCHIP
+	bool "libmali-rockchip"	
+	help
+	  LibMali userspace driver

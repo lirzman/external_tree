@@ -2,3 +2,4 @@ source "$BR2_EXTERNAL_DT_PATH/package/expo/Config.in"
 source "$BR2_EXTERNAL_DT_PATH/package/rockchip/Config.in"
 source "$BR2_EXTERNAL_DT_PATH/package/testing/Config.in"
 
+
